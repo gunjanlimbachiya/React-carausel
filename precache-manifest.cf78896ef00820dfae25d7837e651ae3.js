@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c56d43d78d4de634a77ea2e726bd5c29",
+    "revision": "6014e92189da1bf7d0e7ada366f4e02f",
     "url": "/React-carausel/index.html"
   },
   {
